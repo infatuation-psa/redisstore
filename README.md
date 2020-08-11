@@ -1,6 +1,6 @@
 # RedisStore
 
-This fork intends to add redis/v8 support to the libray.
+This modifies redis store to utilize /v8 of redis.
 
 A [`Gorilla Sessions Store`](https://www.gorillatoolkit.org/pkg/sessions#Store) implementation backed by Redis.
 
