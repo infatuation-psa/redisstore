@@ -1,5 +1,7 @@
 # RedisStore
 
+This fork intends to add redis/v8 support to the libray.
+
 A [`Gorilla Sessions Store`](https://www.gorillatoolkit.org/pkg/sessions#Store) implementation backed by Redis.
 
 It uses [`go-redis`](https://github.com/go-redis/redis) as client to connect to Redis.
